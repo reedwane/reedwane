@@ -16,6 +16,7 @@ If you have any questions or would like to work together, please don't hesitate 
 
 I have worked and am still working on a variety of projects, both for clients and as personal projects. Some of my work includes:
 
+- Hamoye AI Labs: Building robust frontend applications for ML and AI projects.
 - Barnaamaj: Collaborating as a Frontend Developer in building spectacular products for the future of the ummah.
 - Wordly Dictionary: Built a dictionary application harnessing multiple REST APIs to provide a rich user experience in browsing for different words and their comprehensive meaning.
 - ICEECE Conference Management APP: Contributed to building an application to efficiently manage the events of the 1st ICEECE & AMF in UniIbadan.

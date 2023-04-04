@@ -10,7 +10,7 @@ If you have any questions or would like to work together, please don't hesitate 
 
 # Experience and Skills
 
-- Extensive experience with ReactJS, NextJS, and other modern frontend technologies.
+- Extensive experience with ReactJS, NextJS, React Query and other modern frontend technologies.
 - Proficient in HTML, CSS, and JavaScript, with experience using SCSS and Tailwind for styling.
 - Strong understanding of modern frontend development best practices, including responsive design and accessibility.
 - Experience using Git for version control and collaboration with other developers.

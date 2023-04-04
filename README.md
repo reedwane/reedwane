@@ -1,6 +1,10 @@
 ## Welcome here 👋, I am Ridwan Gboyega Abdulkareem
 
-I am a frontend developer with experience in ReactJS, NextJS, SCSS, Tailwind, JavaScript, TypeScript, and other latest technologies. I am passionate about creating beautiful and intuitive user interfaces that provide a great user experience. I have a strong attention to detail and a desire to keep up with the latest frontend development trends and best practices.
+As a growth-driven Front End Developer, I have a proven track record of building functional and responsive web applications and websites that meet diverse use cases and functionalities, including those that leverage ML and AI technologies. With my strong passion for effective collaboration, I thrive in distributed teams of engineers, designers, and other professionals and I always strive to deliver high-quality solutions that impress and exceed client expectations.
+
+My technical expertise includes using technologies which includes React.js, Next.js, JavaScript, TypeScript, React Query, SCSS, HTML, and CSS, as well as adapting to newer technologies. I'm constantly seeking to expand my knowledge and stay ahead of industry trends to provide innovative and effective solutions.
+
+As a React web Developer, I specialize in creating cutting-edge solutions that meet the unique requirements of each product. I am dedicated to delivering exceptional results every time.
 
 If you have any questions or would like to work together, please don't hesitate to reach out to my ridwangboyega.ak@gmail.com.
 

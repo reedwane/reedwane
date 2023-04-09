@@ -25,7 +25,7 @@ I have worked and am still working on a variety of projects, both for clients an
 - Wordly Dictionary: Built a dictionary application harnessing multiple REST APIs to provide a rich user experience in browsing for different words and their comprehensive meaning.
 - ICEECE Conference Management APP: Contributed to building an application to efficiently manage the events of the 1st ICEECE & AMF in UniIbadan.
 
-You can view my complete portfolio and additional details about my experience and skills on my [website](https//reedwane.com).
+You can view my complete portfolio and additional details about my experience and skills on my [website](https://www.reedwane.com/).
 
 # Skillset
 
